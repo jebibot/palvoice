@@ -1,0 +1,11 @@
+{
+  "ingamePointerOffsets": [148086464],
+  "inviteCodePointerOffsets": [147739264, 16, 8, 128, 128, 0],
+  "ipAddressPointerOffsets": [147739264, 0, 176, 3752, 0, 312, 0],
+  "serverPortOffsets": [147739264, 0, 176, 3752, 0, 328],
+  "serverNameOffsets": [147739264, 0, 176, 3752, 0, 312, 0],
+  "playerNameOffsets": [147693736, 0, 32, 80, 320, 664, 904, 0],
+  "positionPointerOffsets": [147693736, 0, 32, 80, 56, 8, 40, 720],
+  "guildIdOffsets": [147693736, 0, 32, 80, 512, 8, 264, 1112],
+  "worldNameOffsets": [147693736, 0, 32, 72, 40, 8, 336, 848, 0]
+}
